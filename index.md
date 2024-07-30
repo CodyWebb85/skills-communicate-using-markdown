@@ -5,4 +5,4 @@
 # <h5> Welcome!!</h5>
 # <h6> Welcome!!</h6>
 
-//Testing out header sizes.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
